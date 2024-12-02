@@ -59,6 +59,7 @@ RUN set -ex \
     speedtest-cli \
     openssh \
     oh-my-zsh \
+    postgresql-client \
     strace \
     tcpdump \
     tcptraceroute \
